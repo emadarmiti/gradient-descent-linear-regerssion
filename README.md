@@ -5,8 +5,7 @@ This tool is used for building a linear regression model using the gradient desc
 ## Algorithm behind
 
 The tool takes as a parameter the dataset path. We used this dataset:
-
-`https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/slr06.html`
+[Dataset](https://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/slr06.html)
 
 - The program searches for the parameters of the linear function using gradient descent.
 
